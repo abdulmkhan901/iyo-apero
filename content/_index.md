@@ -4,8 +4,8 @@ subtitle: "Lecturer @ Bangladesh University of Professionals"
 description: "Hey, you found me. Thank you for visiting my personal website. I try to keep it updated as much as I can. But I am always a little bit of lazy and have ADHD, so I think after sometime, I may lose interest in this and move on to a new project."
 date: 2019-02-18T12:27:33-06:00
 images:
-  - img/revoir.jpg
-image_left: true
+  - img/kikitombo.jpg
+image_left: false
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true

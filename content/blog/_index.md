@@ -1,8 +1,7 @@
 ---
-title: Blogs of Abdul Mahidud Khan
+title: 
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
+  
 author: "Abdul M Khan"
 show_post_thumbnail: true
 show_author_byline: true
@@ -12,7 +11,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Khan's Thoughts
+  title: Random Rumblings
   description: |
     Random thoughts, I want to express, but too coward and egotistic to publish in any social media.
     
