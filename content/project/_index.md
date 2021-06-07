@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Courses I Teach
+description: "You will find different course materials that I teach in this page"
+author: "Abdul M Khan"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
