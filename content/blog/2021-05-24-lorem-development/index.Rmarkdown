@@ -11,7 +11,7 @@ categories:
 - evergreen
 ---
 
-{{< here >}}
+
 
 ## But first, panelsets with R code chunks
 

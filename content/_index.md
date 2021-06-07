@@ -1,7 +1,7 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Abdul M Khan"
+subtitle: "Lecturer @ Bangladesh University of Professionals"
+description: "Hey, you found me. Thank you for visiting my personal website. I try to keep it updated as much as I can. But I am always a little bit of lazy and have ADHD, so I think after sometime, I may lose interest in this and move on to a new project."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg

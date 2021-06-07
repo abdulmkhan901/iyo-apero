@@ -1,36 +1,27 @@
 ---
-title: "Lorem Simpson"
-subtitle: ""
+title: "Experience from my RMG factory visits"
+subtitle: "Warmglow effect from factory official, an unique day for DIFE and a typical lunch"
 excerpt: "An .Rmarkdown post"
 date: 2021-05-26
-author: "Alison Hill"
+author: "Abdul M Khan"
 draft: false
 images:
 series:
 tags:
 categories:
-layout: single
+layout: double
 ---
 
-{{< here >}}
 
-## Some penguins to start
 
-```{r}
-library(tidyverse)
-library(palmerpenguins)
-```
-
-```{r}
-ggplot(data = penguins, aes(x = flipper_length_mm)) +
-  geom_histogram(aes(fill = species), alpha = 0.5, position = "identity") +
-  scale_fill_manual(values = c("darkorange","darkorchid","cyan4"))
-```
+## I scratch your back, you scrtach mine
 
 
 
 
-## Fame was like a drug. But what was even more like a drug were the drugs.
+
+
+## Keep it short
 
 Jesus must be spinning in his grave! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. Marge, it takes two to lie. One to lie and one to listen.
 

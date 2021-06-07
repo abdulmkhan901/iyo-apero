@@ -1,68 +1,27 @@
 ---
-title: "Lorem Simpson"
-subtitle: ""
+title: "Experience from my RMG factory visits"
+subtitle: "Warmglow effect from factory official, an unique day for DIFE and a typical lunch"
 excerpt: "An .Rmarkdown post"
 date: 2021-05-26
-author: "Alison Hill"
+author: "Abdul M Khan"
 draft: false
 images:
 series:
 tags:
 categories:
-layout: single
+layout: double
 ---
 
-{{< here >}}
-
-## Some penguins to start
 
 
-```r
-library(tidyverse)
-```
-
-```
-## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ──
-```
-
-```
-## ✓ ggplot2 3.3.3     ✓ purrr   0.3.4
-## ✓ tibble  3.1.2     ✓ dplyr   1.0.5
-## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
-## ✓ readr   1.4.0     ✓ forcats 0.5.1
-```
-
-```
-## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
-## x dplyr::filter() masks stats::filter()
-## x dplyr::lag()    masks stats::lag()
-```
-
-```r
-library(palmerpenguins)
-```
-
-
-```r
-ggplot(data = penguins, aes(x = flipper_length_mm)) +
-  geom_histogram(aes(fill = species), alpha = 0.5, position = "identity") +
-  scale_fill_manual(values = c("darkorange","darkorchid","cyan4"))
-```
-
-```
-## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
-```
-
-```
-## Warning: Removed 2 rows containing non-finite values (stat_bin).
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+## I scratch your back, you scrtach mine
 
 
 
 
-## Fame was like a drug. But what was even more like a drug were the drugs.
+
+
+## Keep it short
 
 Jesus must be spinning in his grave! Marge, just about everything's a sin. Y'ever sat down and read this thing? Technically we're not supposed to go to the bathroom. Marge, it takes two to lie. One to lie and one to listen.
 
