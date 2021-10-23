@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "abdulmkhan_BUP"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -101,24 +101,29 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Abdul M Khan"
     url = "/about/"
-    weight = 1
+    weight = 5
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 4
   [[menu.header]]
     name = "Teaching"
     title = "Teaching in BUP"
-    url = "/project/"
-    weight = 3
+    url = "/teaching/"
+    weight = 1
   [[menu.header]]
-    name = "Research and Projects"
-    title = "Ongoing and finished research studies"
-    url = "/talk/"
-    weight = 4
+    name = "Research papers"
+    title = "Finished research"
+    url = "/research/"
+    weight = 2
+  [[menu.header]]
+    name = "Working Papers"
+    title = "Ongoing projects and research"
+    url = "/working_papers/"
+    weight = 3
     
   # Configure footer  
   [[menu.footer]]

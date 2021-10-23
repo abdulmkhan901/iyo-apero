@@ -1,6 +1,6 @@
 ---
 title: Courses I Teach
-description: "You will find different course materials that I teach in this page"
+description: "I am in BUP for last four years. I had taught variety of subjects, ranging from intermediate macroeconomics to Software for economic analysis. You will find different course materials that I teach in this page. However, due to compliance with the copyright I can upload the full course materials."
 author: "Abdul M Khan"
 show_post_thumbnail: true
 show_author_byline: true
@@ -10,7 +10,7 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Teaching
   description: |
     Projects can be anything!
     Check out the _index.md file in the /project folder 
@@ -23,13 +23,13 @@ sidebar:
 # set up common front matter for all individual pages inside project/
 cascade:    
   show_author_byline: true
-  show_post_date: true
+  show_post_date: false
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all projects
-    text_link_url: /project/
-    show_sidebar_adunit: false # show ad container
+    text_link_url: /teaching/
+    show_sidebar_adunit: true # show ad container
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
