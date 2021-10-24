@@ -10,7 +10,7 @@ tags:
 ---
 
 
-
+![](featured-hex.jpg)
 
 ---
 

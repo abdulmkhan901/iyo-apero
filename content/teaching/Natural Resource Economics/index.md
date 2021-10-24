@@ -9,7 +9,7 @@ tags:
   - teaching
 ---
 
-
+![](featured-hex.jpg)
 
 
 ---

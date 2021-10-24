@@ -9,6 +9,9 @@ tags:
   - teaching
 ---
 
+![](featured-hex.jpg)
+
+---
 This is an applied course of microeconomics and macroeconomics. Students will use their knowledge of microeconomics and macroeconomics, learned in 1st and 2nd semester, in this course.
 
 ## Course Objectives
