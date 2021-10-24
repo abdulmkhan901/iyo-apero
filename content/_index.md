@@ -1,7 +1,7 @@
 ---
 title: "Abdul M Khan"
 subtitle: "Lecturer @ Bangladesh University of Professionals"
-description: "Hey, you found me. Thank you for visiting my personal website. I try to keep it updated as much as I can. But I have always been a little bit of lazy, so I think after sometime, I may lose interest in this and move on to a new project."
+description: "Hey, you found me. Thank you for visiting my personal website. You will find my teaching materials and research material here. Also, working papers are here too and I would like to hear your thoughts on these papers. Enjoy!!!"
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/kikitombo.jpg

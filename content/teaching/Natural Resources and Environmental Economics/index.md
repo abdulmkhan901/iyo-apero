@@ -10,43 +10,44 @@ tags:
 ---
 
 
-
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
 ---
 
-### Functional Form
+## Description
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+This course will focus on the role of the environment in the theory and practice of economics. It will make use of microeconomic analysis at the principle level and will incorporate real-world examples. The class aims to show how environmental externalities cause market failure and economic approach, highlighting many of the tools used by environmental economists including cost-benefit analysis,cost-effectiveness analysis and methods available for monetizing nonmarket goods and services.
+Then we will delve into the field of natural resource economics, where we will learn about depletable and renewable energy resources, recyclable resources, water and land as well as forests and fisheries, and other ecosystems.
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
 
-### Multiple Layouts
+## Course Objectives
+-	Illustrate how economic activities creates an environmental externality
+-	How an economist can measure the value of the environment
+-	Show how cost-benefit analysis is done
+-	How to allocate depletable resources
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
 
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
+## Learning Outcomes
+-	Understand the methods of estimating the social value of environmental resources
+-	Understand and apply fundamental tools and models of microeconomics to analyzing environmental questions, which involve cases where private market outcomes are not necessarily efficient (e.g., pollution, climate change)
+-	Understand and interpret relevant graphical analyses 
+-	Use microeconomic tools to analyze important environmental regulatory policies 
+-	Compare different institutional approaches to environmental policy (regulation, market-based, common law) 
+-	Understand the difficulties of formulating and evaluating environmental policy 
+-	Understand the history and processes through which environmental policy has been made, and the difficulty of evaluating potentially corrective policies
+-	Familiarity with specific economic issues associated with environmental situations
+-	Understand the intertemporal tradeoffs in environmental issues, and the economic models used to evaluate them
 
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
 
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+## Course Materials
+### Required Text 
+Environmental and Natural Resource Economics 11th Edition, Tom H Tietenberg and Lynne Lewis
+Markets and the Environment 2nd Edition, Nathaniel Keohane and Sheila Olmstead
+
+### Optional Text
+1.	William Nordhaus, The Climate Casino, any edition, Yale University Press (N) 
+2.	Natural resource and environmental economics by Roger Perman
+3.	Environmental Economics: An Introduction by Barry c. Field
+
+## Prerequisites 
+Knowledge of Principles of Microeconomics (ECON-1101) and simple mathematics like algebra is mandatory. Knowledge of simple calculus like differentiation and integration is a plus point.  As this is an introductory level course for environment economics, we will keep our hands clean from too much abstract mathematics. We will cover mainly graphical approaches and leave more advanced level math stuff for the future graduate level course. 
+
