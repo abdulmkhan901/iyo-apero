@@ -1,16 +1,13 @@
 ---
 title: 'Tourism Development and Economic Growth in Bangladesh: New Evidence from Nonlinear
   Autoregressive Distributed Lag'
-author: "Alison Hill"
+author: "Abdul M Khan"
 date: '2021-01-12'
 excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
   GitHub, and Netlify.
 date_end: '2021-01-13'
 show_post_time: no
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
 subtitle: Testing
-location: Sydney, Australia
 draft: no
 layout: single
 categories: workshop
