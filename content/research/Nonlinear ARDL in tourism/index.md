@@ -22,7 +22,6 @@ links:
   url: https://github.com/apreshill/bakeoff
 ---
 
-{{< here >}}
 
 We examine the long-run relationship between tourism development and economic growth using the Nonlinear Autoregressive Distributed Lag (NARDL)
 model for Bangladesh using annual data from 1980 to 2016. We find an asymmetric relationship between tourism and Bangladesh’s economy since
